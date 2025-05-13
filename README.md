@@ -12,3 +12,24 @@ You may also see any lint errors in the console.
 
 Launches the desktop application. 
 This page will only load after the browser page is open.
+
+1. Firebase
+- Create Firebase project
+- Add in firebase configurations in Firebase.js
+
+2. Spotify API
+- Create developer account
+- Add in client ID and client Secret in CreateAccount.js and Login.js
+
+3. Amazon Rekognition API 
+- Create Amazon Rekognition account
+- Add in access key ID and secret access key in Work.js
+
+4. Dependencies/Installations
+- nodejs
+- react
+- electron
+- aws-sdk
+- firebase
+- webcamjs
+- npm install @mui/material @emotion/react @emotion/styled
