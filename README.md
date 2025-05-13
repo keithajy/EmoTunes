@@ -1,3 +1,5 @@
+Forked from: https://github.com/joqjy/FYP_MoodMelodies
+
 ## To load the Electron-React Application, run the following commands in separate terminals:
 
 ### `npm start`
@@ -33,3 +35,7 @@ This page will only load after the browser page is open.
 - firebase
 - webcamjs
 - npm install @mui/material @emotion/react @emotion/styled
+
+Acknowledgement
+This project builds upon a codebase developed by a previous student at NTU.  
+Modifications and feature extensions were made during my final year project.
